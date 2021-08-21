@@ -12,7 +12,7 @@ This is Student admission system app uses for the admin and student login.
        Login</br>
        Add new student (giving a unique spid)</br>
        Fetch all students data</br>
-       Fetch students data from a particular class</br></br>
+       Fetch students data from a particular class</br>
        Modify existing student details</br>
        Remove a student</br>
        Update NoticeBoard
